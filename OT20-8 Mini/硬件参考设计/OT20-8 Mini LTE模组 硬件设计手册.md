@@ -36,7 +36,7 @@ OT20-8T 硬件框图，通过如下电源、地、SIM、USB、RST 接口实现 L
 ## 4. 射频参数 
 射频参数是衡量 OT20-8T 模块的重要指标，OT20-8T模块满足 3GPP 协议标准，每片主板均经过标准测试。发射功率、接收灵敏度颗参考下表的典型值。   
 ### 4.1 频段支持  
-![](https://i.imgur.com/1DpIiCx.png)  
+![](https://i.imgur.com/I4B1zKH.png)
 
 ### 4.2 发射功率
 ![](https://i.imgur.com/Lq9wcXn.png)
