@@ -22,7 +22,7 @@
 ----------
 ## 概要
 
-　　本文将以 **Developerkit + OT20-8** 为例，教大家如何在Developerkit上使用4G网络接入阿里云物联网平台。（亦可使用Linkkit组件接入智能生活开放平台和LinkDevelop平台，这里暂只以物联网平台为例）
+　　本文将以 **Developerkit + OT20-8** 为例，教大家如何基于MQTT，在Developerkit上使用4G网络接入阿里云物联网平台。（亦可使用Linkkit组件接入智能生活开放平台和LinkDevelop平台，这里暂只以物联网平台为例）
 
 　　**OT20-8**属于OT20系列，是由[上海诺行信息技术有限公司](www.notioni.com)设计开发的一款全网通4G模块，广泛应用于需要高速传输的产品中，和诸多IOT设备应用场景。
 
